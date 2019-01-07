@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sdding some code
 
+=======
+fix1
+>>>>>>> 382b2f4... addedfix1
