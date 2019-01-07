@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdding some code
 
 =======
 fix1
 >>>>>>> 382b2f4... addedfix1
+=======
+fix1
+v1.0_fixes
